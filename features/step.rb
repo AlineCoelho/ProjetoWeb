@@ -7,7 +7,6 @@ Quando('realiza o login com usuário válido') do
     @browser.text_field(id:"session_password").set "senha"
     #@browser.button(text:"Entendi").click
     @browser.button(text:"Entrar").click
-
 end
   
 Então('será redirecionado para a área logada') do
