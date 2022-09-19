@@ -5,7 +5,8 @@ Esse é um repositório que contém a automação de teste web de um site denomi
 **Cucumber**
 O cucumber é framework em ruby que suporta BDD, o cucumber entende as frases escrita em Gherkin e as transforma em “steps”, cada frase vira um bloco de código e dentro de cada um você pode colocar o código.
 
-**Watir** http://watir.com/guides/
+**Watir** 
+http://watir.com/guides/
 O Watir é um framework escrito em ruby e baseado em selenium, ele te ajuda a testar aplicações web.
 
 ## **Pré-requisitos**
